@@ -35,6 +35,7 @@ class Weakness extends StatelessWidget {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
+              //1º Container
               Container(
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(10),
@@ -53,6 +54,7 @@ class Weakness extends StatelessWidget {
                   ),
                 ),
               ),
+              //2º Container
               Container(
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(10),
@@ -71,6 +73,7 @@ class Weakness extends StatelessWidget {
                   ),
                 ),
               ),
+              //3º Container
               Container(
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(10),
