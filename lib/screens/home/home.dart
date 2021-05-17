@@ -24,6 +24,7 @@ class Home extends StatelessWidget {
       appBar: AppBar(
         title: Text(
           "Charmander",
+           textAlign: TextAlign.center,
         ),
         backgroundColor: Colors.orange,
       ),
