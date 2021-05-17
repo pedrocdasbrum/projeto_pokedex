@@ -24,9 +24,9 @@ class Home extends StatelessWidget {
       appBar: AppBar(
         title: Text(
           "Charmander",
-           textAlign: TextAlign.center,
         ),
         backgroundColor: Colors.orange,
+        centerTitle: true,
       ),
       body: SingleChildScrollView(
         child: Column(
